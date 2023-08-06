@@ -1,3 +1,4 @@
+#Description
 > Example code for RC car 
->> using Bluetooth Module
->> using L298N bridge
+>> using Bluetooth Module, L298N bridge
+
